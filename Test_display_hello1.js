@@ -19,7 +19,7 @@ function() {
     function pageInit(scriptContext) {
         alert('Hello User');
     }
-
+                
     /**
      * Function to be executed when field is changed.
      *
